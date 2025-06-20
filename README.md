@@ -113,15 +113,12 @@ Before you begin, ensure the following:
 ## 📌 Sample Questions to Test
 
 You can test with these queries:
-
-   ```bash
     [
       "What is Artificial Intelligence?",
       "How does semantic search work?",
       "Explain RAG pipeline.",
      "What are Hugging Face embeddings?"
     ]
----
  ### Screenshots
 WorkFlow diagram
 ![image](https://github.com/user-attachments/assets/e115c2d6-0fe5-48ed-9548-bdbc68b20be3)
