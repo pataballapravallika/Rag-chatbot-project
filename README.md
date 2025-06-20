@@ -120,8 +120,14 @@ You can test with these queries:
      "What are Hugging Face embeddings?"
     ]
  ### Screenshots
-WorkFlow diagram
+## WorkFlow diagram
 ![image](https://github.com/user-attachments/assets/e115c2d6-0fe5-48ed-9548-bdbc68b20be3)
+
+## Google Console 
+![image](https://github.com/user-attachments/assets/d48eb01b-a783-44c4-8618-27d763a2a12e)
+
+ ## ChatBot
+![image](https://github.com/user-attachments/assets/bbb51771-44c4-45e9-a155-b566f2fae82d)
 
 
 Refer to tests/sample-queries.json for more.
