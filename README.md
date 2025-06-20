@@ -5,6 +5,8 @@ This project demonstrates a **Retrieval-Augmented Generation (RAG)** based FAQ c
 It is developed for the **Altibbe Generative AI Developer Internship** screening task.
 
 ---
+Here is Chat Url
+https://pravallikapataballa.app.n8n.cloud/webhook/79bfa5ed-3f0d-4cca-8e0c-503ef4376b20/chat
 
 ## 📌 Project Highlights
 
