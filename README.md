@@ -112,13 +112,13 @@ Before you begin, ensure the following:
 
 You can test with these queries:
 
-```json
-[
-  "What is Artificial Intelligence?",
-  "How does semantic search work?",
-  "Explain RAG pipeline.",
-  "What are Hugging Face embeddings?"
-]
+   ```json
+    [
+      "What is Artificial Intelligence?",
+      "How does semantic search work?",
+      "Explain RAG pipeline.",
+     "What are Hugging Face embeddings?"
+    ]
 
 Refer to tests/sample-queries.json for more.
 
