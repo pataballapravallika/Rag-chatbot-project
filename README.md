@@ -122,12 +122,19 @@ You can test with these queries:
  ### Screenshots
 ## WorkFlow diagram
 ![image](https://github.com/user-attachments/assets/e115c2d6-0fe5-48ed-9548-bdbc68b20be3)
+This n8n workflow loads documents (from Google Drive), splits them using a text splitter, generates embeddings with Hugging Face, and stores them in Pinecone.
 
 ## Google Console 
 ![image](https://github.com/user-attachments/assets/d48eb01b-a783-44c4-8618-27d763a2a12e)
 
  ## ChatBot
 ![image](https://github.com/user-attachments/assets/bbb51771-44c4-45e9-a155-b566f2fae82d)
+
+Handles user queries, retrieves similar document chunks using semantic search, and uses the Q&A chain to generate answers.
+
+## Pinecone Index Configuration
+![image](https://github.com/user-attachments/assets/ba609f66-d503-4bff-880c-c4098ce51177)
+Shows Pinecone index with dimension = 768, metric = cosine, and region = us-east-1, which matches the embedding model.
 
 
 Refer to tests/sample-queries.json for more.
