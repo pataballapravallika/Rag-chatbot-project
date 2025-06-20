@@ -112,7 +112,7 @@ Before you begin, ensure the following:
 
 You can test with these queries:
 
-   ```json
+   ```bash
     [
       "What is Artificial Intelligence?",
       "How does semantic search work?",
@@ -121,7 +121,6 @@ You can test with these queries:
     ]
 
 Refer to tests/sample-queries.json for more.
-
 🧠 Models Used
 Embedding Model: sentence-transformers/all-MiniLM-L6-v2 or distilbert-base-nli-mean-tokens
 
@@ -150,3 +149,5 @@ Integrate a frontend chatbot UI using Streamlit or Bubble
 Pataballa Pravallika
 📧 pataballapravallika@gmail.com
 🔗 LinkedIn
+
+
