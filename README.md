@@ -2,7 +2,6 @@
 # 🤖 RAG-Powered FAQ Chatbot using n8n, Hugging Face & Pinecone
 
 This project demonstrates a **Retrieval-Augmented Generation (RAG)** based FAQ chatbot built entirely using **n8n** (a no-code/low-code platform), **Hugging Face** (for text embeddings and/or LLM), and **Pinecone** (for vector storage).  
-It is developed for the **Altibbe Generative AI Developer Internship** screening task.
 
 ---
 Here is Chat Url
